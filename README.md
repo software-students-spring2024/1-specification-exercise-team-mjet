@@ -2,9 +2,15 @@
 
 A little exercise to get started with the specification phase of the software development lifecycle. See the [instructions](instructions.md) for more detail.
 
-## Team members
+## Team Members
 
-* [Eleazar "Ele" Neri](https://github.com/afknero)
+* Marc Etter: [Github](https://github.com/Morcupine)
+
+* Johan Gallardo: [Github](https://github.com/JohanGallardo)
+
+* Eleazar Neri: [Github](https://github.com/afknero)
+
+* Terry Qiu: [Github](https://github.com/TerryQtt)
 
 ## Stakeholders
 
