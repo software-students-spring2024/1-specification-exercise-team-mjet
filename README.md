@@ -18,7 +18,7 @@ See instructions. Delete this line and replace with the name(s) of the stakehold
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here.
+Our vision for **CampusSwap** is to create a student-centric platform that fosters sustainable and budget-friendly exchange within college communities, enabling seamless connections and resource sharing among users.
 
 ## User Requirements
 
