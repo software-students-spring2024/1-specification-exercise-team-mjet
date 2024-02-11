@@ -65,6 +65,7 @@ Our vision for **CampusSwap** is to create a student-centric platform that foste
 ## Activity Diagrams
 
 [Make Offer Activity Diagram](https://github.com/software-students-spring2024/1-specification-exercise-team-mjet/blob/main/images/ActivityDiagram1.png)
+
 [Receive Offer Activity Diagram 2](https://github.com/software-students-spring2024/1-specification-exercise-team-mjet/blob/main/images/ActivityDiagram2.png)
 
 ## Clickable Prototype
