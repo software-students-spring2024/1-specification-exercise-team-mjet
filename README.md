@@ -68,4 +68,4 @@ Our vision for **CampusSwap** is to create a student-centric platform that foste
 
 ## Clickable Prototype
 
-[Link to Prototype](https://www.figma.com/file/x3f0MbobZngRkUfDETNkGR/Project-1?type=design&node-id=0%3A1&mode=design&t=C2f4qusdKke6YtAc-1)
+[Link to Prototype](https://www.figma.com/proto/x3f0MbobZngRkUfDETNkGR/Project-1?type=design&node-id=15-3537&t=YBhHTxb9qRPXw8wH-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=15%3A3537&mode=design)
