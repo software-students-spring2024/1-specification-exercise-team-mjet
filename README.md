@@ -63,11 +63,9 @@ Our vision for **CampusSwap** is to create a student-centric platform that foste
 1. As a user, I want to be able to counteroffer or ‘sweeten the pot’ of existing offers on my items. <br><br>
 
 ## Activity Diagrams
-
 ![Make Offer (Activity Diagram 1)](images/ActivityDiagram1.png)
-
 ![Receive Offer (Activity Diagram 2)](images/ActivityDiagram2.png)
 
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+[Link to Prototype](https://www.figma.com/file/x3f0MbobZngRkUfDETNkGR/Project-1?type=design&node-id=0%3A1&mode=design&t=C2f4qusdKke6YtAc-1)
